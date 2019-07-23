@@ -2,6 +2,9 @@
 title: "Wonkblog"
 description: |
   This is where I blog about data science
+author:
+  - name: "James Laird-Smith"
+    url: https://github.com/jameslairdsmith
 site: distill::distill_website
 ---
 
