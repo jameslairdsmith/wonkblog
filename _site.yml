@@ -1,0 +1,12 @@
+name: "wonkblog"
+title: "James Laird-Smith"
+description: |
+  This is where I blog about data science
+output_dir: "_site"
+navbar:
+  right:
+    - text: "Home"
+      href: index.html
+    - text: "About"
+      href: about.html
+output: distill::distill_article
