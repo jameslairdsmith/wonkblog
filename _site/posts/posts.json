@@ -1,0 +1,17 @@
+[
+  {
+    "path": "posts/welcome/",
+    "title": "My first post",
+    "description": "Welcome to our new blog, My Blog. We hope you enjoy \nreading what we have to say!",
+    "author": [
+      {
+        "name": "James Laird-Smith",
+        "url": "https://jameslairdsmith.netlify.com/"
+      }
+    ],
+    "date": "2019-07-25",
+    "categories": [],
+    "preview": {},
+    "last_modified": "2019-07-25T17:59:59+01:00"
+  }
+]
