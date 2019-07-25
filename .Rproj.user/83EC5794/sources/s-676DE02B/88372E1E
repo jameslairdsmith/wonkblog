@@ -5,14 +5,14 @@
     "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
-    "hash" : "3821105280",
+    "hash" : "2486453284",
     "id" : "88372E1E",
-    "lastKnownWriteTime" : 1564073084,
-    "last_content_update" : 1564073084345,
+    "lastKnownWriteTime" : 1564076394,
+    "last_content_update" : 1564076394528,
     "path" : "~/Google Drive/Applications/RStudio/wonkblog/about.Rmd",
     "project_path" : "about.Rmd",
     "properties" : {
-        "cursorPosition" : "9,0",
+        "cursorPosition" : "6,45",
         "scrollLine" : "0"
     },
     "read_only" : false,

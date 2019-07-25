@@ -2,6 +2,9 @@
 title: "My Wonkblog"
 description: |
   Where I blog about Academic subjects and Data Science
+author:
+  - name: James Laird-Smith 
+    url: https://jameslairdsmith.netlify.com/
 ---
 
 ```{r setup, include=FALSE}
