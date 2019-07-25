@@ -7,6 +7,9 @@ author:
   - name: James Laird-Smith 
     url: https://jameslairdsmith.netlify.com/
 date: 07-25-2019
+categories:
+  - portfolios
+  - dygraphs
 output:
   distill::distill_article:
     self_contained: false
