@@ -1,0 +1,43 @@
+---
+title: "My journey to using R for data science"
+author:
+  - name: James Laird-Smith
+date: 07-27-2019
+output:
+  distill::distill_article:
+    self_contained: false
+draft: true
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+Like many analysts, scientists, academics and hobbiest programmers, I use the R
+programming language to do what many people now refer to as 'data science'. 
+
+I been doing so for a few years.
+
+It
+wasn't always this way.
+
+In
+fact, I have mostly stopped using other tools.
+
+It
+wasn't always like this.
+
+I
+do this almost every day
+
+R has a formiddible ecosystem of related tools to help users.
+
+It bridges many divides.
+
+Programming language wars are misguided. There are advantages and drawbacks to
+different tools, but that is all the ultimately are: tools. If a particualr 
+tools works for you, then that's more than fine. Don't let anyone try to tell
+you.
+
+Everyone should be sceptical about their own tools. Asking the questions like: 
+Are they reproducible?
