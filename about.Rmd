@@ -1,7 +1,7 @@
 ---
 title: "My Wonkblog"
 description: |
-  Where I blog about Academic subjects and Data Science
+  Where I blog about data science, finance and other academic miscellany
 author:
   - name: James Laird-Smith 
     url: https://jameslairdsmith.netlify.com/
