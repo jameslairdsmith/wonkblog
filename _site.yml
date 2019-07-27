@@ -1,7 +1,7 @@
 name: "wonkblog"
 title: "James Laird-Smith"
 description: |
-  My Blog
+  Wonkblog
 output_dir: "docs"
 navbar:
   right:
